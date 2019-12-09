@@ -1,0 +1,9 @@
+{
+    "phpserver.phpPath": "C:\\xampp\\php\\php.exe",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
